@@ -6,7 +6,7 @@ This is a simple hour-by-hour planner for an 8 am - 6 pm workday. It pushed my d
 
 ## Usage
 
-See the deployed scheduler [here]()
+See the deployed scheduler [here](https://prototype1309.github.io/workday-scheduler-/)
 
 and a gif of the expected behavior here: ![updating an event on the scheduler and showing a general overview](./assets/05-third-party-apis-homework-demo.gif).
 
